@@ -1,0 +1,42 @@
+Project Ideas (In no particular order)
+    -Simple Virus (self-replicating code)
+            -> take this idea and gradually make it more interesting as a way to explore cyber security techniques
+     
+     -Chess Game
+            -Graphical, implement in Java, then Python, then C (if I'm feeling weird)
+            -I want to use this to explore multiple topics, I know there are some things in graph theory related to this
+            -Basic Machine learning for AI opponent...
+      
+     -Write a new driver for my keyboard because it isn't great
+            -Talk to Prof Janis about this, she made drivers for her job
+            
+     -Write purposefully bad code such as code vulnerable to buffer overflow and then exploit it
+      
+     -Develop a personal website -> I've already done a very basic one for a class -> develop it further as a way to explore front end 
+        web development -> get it hosted and publicly available.
+        
+     -Ball room dancing app (Sister's request idea in progress...)
+            -IOS and Andriod mobile app dev
+            
+     -Explore a Rasberry PI -> develop my own linux kernal... (Definitely needs more research)
+     
+     -Build some form of Economic data analysis and visualization platform
+     
+     -Indie Game
+     
+     -Message Encryption and decryption software, cyptography seems very cool.
+            -> Have a simple one developed for Systems one, would like to do some research and build one that would actaully take a hot second to be cracked.
+            
+     -IOT devices, nothing too specific but the possiblities are endless.
+            -> I think it would be fun to develop a device that will passively detect which phones/electronic devices are near it and then
+                send that data to a back end database... I know these exist so it would be nice to have a comparison point! Also, need to double check this is legal,
+                won't test in public until then.
+                
+      -News Bias Analyzer
+            - I think it would be very interesting to develop a tool that scans websites for headlines revolving around the same topic and then somehow
+                compares the average connotation of words in each sites articles. For example, FOX News vs CNN on a similar article and measuring the number
+                of words with certain connotations maybe give them strength 1-9 1-4 negative (1 most negative) and 6-9 (Postive) with 5 neutral.
+             -> Ok after writing that, a better weighting scheme is available but my point stands.
+             
+       -Resume Parser
+             -> Because why not?
